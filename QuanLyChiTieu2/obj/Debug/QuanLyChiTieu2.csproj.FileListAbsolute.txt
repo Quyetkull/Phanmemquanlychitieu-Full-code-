@@ -1,0 +1,16 @@
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\bin\Debug\QuanLyChiTieu2.exe.config
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\bin\Debug\QuanLyChiTieu2.exe
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\bin\Debug\QuanLyChiTieu2.pdb
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.csprojAssemblyReference.cache
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.Properties.Resources.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.csproj.GenerateResource.cache
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.csproj.CoreCompileInputs.cache
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.exe
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.pdb
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.Bieu_do.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.Form_dangki.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.FormLogin.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.FormKehoachchitieu.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.FormMain.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.FormThongtinAdmin.resources
+F:\Code\QuanLyChiTieu2\QuanLyChiTieu2\obj\Debug\QuanLyChiTieu2.FormLoading.resources
